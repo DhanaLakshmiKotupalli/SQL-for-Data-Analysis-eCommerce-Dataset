@@ -1,3 +1,5 @@
+# SQL-for-Data-Analysis-eCommerce-Dataset
+
 This project demonstrates how to perform SQL-based data analysis using an eCommerce dataset. The entire analysis was done in Google Colab using SQLite, with the data provided as .csv files.
 
 ## Dataset Tables Used
